@@ -1,5 +1,5 @@
 package rootfunc
 
 func StringFunc() string {
-	return "string from  v1.3.0"
+	return "--- string from  v1.5.0 ---"
 }
